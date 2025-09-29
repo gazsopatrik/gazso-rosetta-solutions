@@ -24,6 +24,4 @@ Rosetta Code aims to show how the same tasks can be implemented in different pro
 | Problem | Title                  | Status         |
 | ------- | ---------------------- | -------------- |
 | #1      | 100 Doors              | ✅ Done- Js     |
-| #2      | Even Fibonacci numbers | ✅ Done         |
-| #3      | Largest prime factor   | ✅ Done         |
 | ...     | ...                    | 🚧 In progress |
