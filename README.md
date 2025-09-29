@@ -1,6 +1,6 @@
 # Rosetta Code Solutions by Gazso
 
-This repository contains my personal solutions to [Rosetta Code](https://rosettacode.org/) tasks, written in **JavaScript**.
+This repository contains my personal solutions to [Rosetta Code](https://rosettacode.org/) tasks, written in **JavaScript** and **C#**.
 
 Rosetta Code aims to show how the same tasks can be implemented in different programming languages. This helps to understand language differences and similarities and promotes knowledge sharing among programmers.
 
@@ -17,7 +17,7 @@ Rosetta Code aims to show how the same tasks can be implemented in different pro
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Javascript, C#, C++
+- **Languages:** Javascript, C#
 
 ---
 
