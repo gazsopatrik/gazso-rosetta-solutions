@@ -23,5 +23,5 @@ Rosetta Code aims to show how the same tasks can be implemented in different pro
 
 | Problem | Title                  | Status         |
 | ------- | ---------------------- | -------------- |
-| #1      | 100 Doors              | ✅ Done- Js     |
+| #1      | 100 Doors              | ✅ Done- Js , CS   |
 | ...     | ...                    | 🚧 In progress |
